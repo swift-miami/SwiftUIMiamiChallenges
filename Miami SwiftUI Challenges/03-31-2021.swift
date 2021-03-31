@@ -7,6 +7,21 @@
 
 import SwiftUI
 
+
+//* 
+Build a view that allows for multiple subviews of the same kind and vertical dividers only between elements.
+- The first element shouldn't have a leading dividers.
+- The last element shouldn't have a trailing dividers.
+- If you only have one element it shouldn't have any dividers.
+
+┌────┐ ┌───────────────┐    │     ┌────┐ ┌───────────────┐    │     ┌────┐ ┌───────────────┐
+│icon│ │Title          │    │     │icon│ │Title          │    │     │icon│ │Title          │
+└────┘ └───────────────┘    │     └────┘ └───────────────┘    │     └────┘ └───────────────┘
+┌──────────────────────┐    │     ┌──────────────────────┐    │     ┌──────────────────────┐
+│Subtitle              │    │     │Subtitle              │    │     │Subtitle              │
+└──────────────────────┘    │     └──────────────────────┘    │     └──────────────────────┘
+*/
+
 struct ContentView: View {
     var body: some View {
         HStack {

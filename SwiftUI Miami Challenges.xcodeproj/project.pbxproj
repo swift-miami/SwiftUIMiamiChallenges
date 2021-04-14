@@ -11,6 +11,7 @@
 		2CFE113A2614E15500B1339D /* 03-31-2021.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFE11392614E15500B1339D /* 03-31-2021.swift */; };
 		2CFE113C2614E15600B1339D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CFE113B2614E15600B1339D /* Assets.xcassets */; };
 		2CFE113F2614E15600B1339D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CFE113E2614E15600B1339D /* Preview Assets.xcassets */; };
+		CC32C0FB262730420047B1F9 /* 04-07-2021.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC32C0FA262730420047B1F9 /* 04-07-2021.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		2CFE113B2614E15600B1339D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CFE113E2614E15600B1339D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2CFE11402614E15600B1339D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC32C0FA262730420047B1F9 /* 04-07-2021.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "04-07-2021.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		2CF886D8261E149800965DDB /* 2021-04 */ = {
 			isa = PBXGroup;
 			children = (
+				CC32C0FA262730420047B1F9 /* 04-07-2021.swift */,
 			);
 			path = "2021-04";
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			files = (
 				2CFE113A2614E15500B1339D /* 03-31-2021.swift in Sources */,
 				2CFE11382614E15500B1339D /* Miami_SwiftUI_ChallengesApp.swift in Sources */,
+				CC32C0FB262730420047B1F9 /* 04-07-2021.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

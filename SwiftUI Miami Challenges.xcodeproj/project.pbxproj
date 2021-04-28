@@ -14,6 +14,7 @@
 		61F59B762630944A000E120F /* 04-21-2021.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F59B752630944A000E120F /* 04-21-2021.swift */; };
 		CC32C0FB262730420047B1F9 /* 04-07-2021.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC32C0FA262730420047B1F9 /* 04-07-2021.swift */; };
 		CC32C0FE262731F20047B1F9 /* 04-14-2021.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC32C0FD262731F20047B1F9 /* 04-14-2021.swift */; };
+		E31526882639C0E800A4A000 /* 04-28-2021.swift in Sources */ = {isa = PBXBuildFile; fileRef = E31526872639C0E800A4A000 /* 04-28-2021.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		61F59B752630944A000E120F /* 04-21-2021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04-21-2021.swift"; sourceTree = "<group>"; };
 		CC32C0FA262730420047B1F9 /* 04-07-2021.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "04-07-2021.swift"; sourceTree = "<group>"; };
 		CC32C0FD262731F20047B1F9 /* 04-14-2021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04-14-2021.swift"; sourceTree = "<group>"; };
+		E31526872639C0E800A4A000 /* 04-28-2021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04-28-2021.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,8 +52,10 @@
 		2CF886D8261E149800965DDB /* 2021-04 */ = {
 			isa = PBXGroup;
 			children = (
+				61F59B752630944A000E120F /* 04-21-2021.swift */,
 				CC32C0FA262730420047B1F9 /* 04-07-2021.swift */,
 				CC32C0FD262731F20047B1F9 /* 04-14-2021.swift */,
+				E31526872639C0E800A4A000 /* 04-28-2021.swift */,
 			);
 			path = "2021-04";
 			sourceTree = "<group>";
@@ -105,7 +109,6 @@
 		61F59B742630942E000E120F /* 2021-05 */ = {
 			isa = PBXGroup;
 			children = (
-				61F59B752630944A000E120F /* 04-21-2021.swift */,
 			);
 			path = "2021-05";
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			files = (
 				2CFE113A2614E15500B1339D /* 03-31-2021.swift in Sources */,
 				2CFE11382614E15500B1339D /* Miami_SwiftUI_ChallengesApp.swift in Sources */,
+				E31526882639C0E800A4A000 /* 04-28-2021.swift in Sources */,
 				CC32C0FB262730420047B1F9 /* 04-07-2021.swift in Sources */,
 				61F59B762630944A000E120F /* 04-21-2021.swift in Sources */,
 				CC32C0FE262731F20047B1F9 /* 04-14-2021.swift in Sources */,

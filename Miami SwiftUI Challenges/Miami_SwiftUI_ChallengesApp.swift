@@ -11,7 +11,7 @@ import SwiftUI
 struct Miami_SwiftUI_ChallengesApp: App {
     var body: some Scene {
         WindowGroup {
-            LoginView()
+            PillView()
         }
     }
 }
